@@ -1,6 +1,7 @@
 # Insoleo
-Video link: https://youtu.be/Lc5JRrlbf78
-PPT Link: https://docs.google.com/presentation/d/11ieYVNsW4GkrwP3oSeodTnLMszbxW1c-jhmjuJ7yJeY/edit?usp=sharing
+- Video link: https://youtu.be/Lc5JRrlbf78
+- PPT Link: https://docs.google.com/presentation/d/11ieYVNsW4GkrwP3oSeodTnLMszbxW1c-jhmjuJ7yJeY/edit?usp=sharing
+- Prototype: https://drive.google.com/drive/folders/12MDvIS03wxgYkjKOYtEfIcbDJ0TqFtg_?usp=sharing
 
 [![Shrijalexpo's GitHub | Stats](https://stats.quine.sh/Shrijalexpo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
 
