@@ -4,6 +4,12 @@ PPT Link: https://docs.google.com/presentation/d/11ieYVNsW4GkrwP3oSeodTnLMszbxW1
 
 [![Shrijalexpo's GitHub | Stats](https://stats.quine.sh/Shrijalexpo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
 
+[![Shrijalexpo's GitHub | Topics Over Time](https://stats.quine.sh/Shrijalexpo/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
+
+[![Shrijalexpo's GitHub | Languages Over Time](https://stats.quine.sh/Shrijalexpo/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
+
+[![Shrijalexpo's Stack Overflow | Stats](https://stats.quine.sh/Shrijalexpo/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
+
 - ## The problem Insoleo solves
 *Insoleo: Revolutionizing Footwear*
 
