@@ -5,9 +5,6 @@
 
 [![Shrijalexpo's GitHub | Stats](https://stats.quine.sh/Shrijalexpo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
 
-[![Shrijalexpo's GitHub | Topics Over Time](https://stats.quine.sh/Shrijalexpo/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
-
-[![Shrijalexpo's GitHub | Languages Over Time](https://stats.quine.sh/Shrijalexpo/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
 
 - ## The problem Insoleo solves
 *Insoleo: Revolutionizing Footwear*
@@ -24,6 +21,8 @@ As a pioneering force, Insoleo proudly stands as the first company in India to o
 
 In conclusion, Insoleo is a game-changer. By tackling the challenges of discomfort, waste, and environmental impact head-on, we provide a sustainable and convenient solution. Insoleo empowers you to step forward with confidence, comfort, and a sense of style while contributing to a cleaner, more sustainable future.
 
+[![Shrijalexpo's GitHub | Topics Over Time](https://stats.quine.sh/Shrijalexpo/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
+
 - ## Challenges we ran into
 *Challenges We Overcame*
 
@@ -32,5 +31,7 @@ Our journey in developing Insoleo was marked by formidable challenges that teste
 Another challenge arose as we embarked on designing a 3D shoe model that seamlessly meshed with our 3D printer's capabilities while optimizing the utilization of our limited resources. We trod a delicate balance, interweaving aesthetics, functionality, and manufacturability. Conquering this complex design puzzle called for a relentless cycle of iterative prototyping and unwavering commitment to excellence, drawing upon the collective expertise of our dedicated design and engineering teams.
 
 The uniqueness of our venture as pioneers in the field of 3D-printed custom footwear added an additional layer of complexity. As trailblazers, we ventured into uncharted territories, with no local precedent to lean on. Our reliance on foreign resources and websites for critical research underscored the groundbreaking nature of our endeavour.
+
+[![Shrijalexpo's GitHub | Languages Over Time](https://stats.quine.sh/Shrijalexpo/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrijalexpo)
 
 Throughout these trials, our guiding lights were perseverance, dedication, and an unwavering thirst for learning. Our team's indomitable spirit of experimentation and collaboration fortified our resolve, enabling us to surmount these obstacles. Each challenge became a stepping stone, propelling us toward our mission to redefine the footwear landscape through Insoleo's innovation. With every hurdle we conquered, we drew closer to our vision of transforming how the world perceives and experiences shoes.
